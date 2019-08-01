@@ -1,0 +1,110 @@
+* {
+	font-family: "proxima nova", sans-serif;
+	color: #333;
+}
+
+.section {
+	padding-bottom: 40px;
+}
+.header-nav {
+	background-color: #000;
+}
+
+.nav a {
+	color: #ccc;
+	font-size: 14px;
+}
+
+.nav a:hover {
+	color: #999;
+}
+
+.nav .active {
+	color: red;
+}
+
+.social-bar {
+	padding-top: 5px;
+}
+
+.header-phone {
+	padding: 10px;
+	float: right;
+	color: #fff;
+	font-size: 16px;
+	font-weight: 300;
+}
+
+.header {
+	height: 300px;
+	background-image: url("D:/Cool Store/Сайты/coolstorevrn/project-coolstorevrn/src/img/header-bg.png");
+	/*margin-bottom: 30px;*/
+}
+
+.header img {
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.header span {
+	display: block;
+	color: #fff;
+}
+
+.title {
+	font-size: 24px;
+	font-weight: 300;
+	line-height: 1;
+	padding-bottom: 5px;
+}
+
+.subtitle {
+	font-size: 40px;
+	font-weight: 600;
+}
+
+.block-header {
+	padding-top: 50px;
+	font-size: 30px;
+	font-weight: 300;
+	text-transform: uppercase;
+	color: red;
+}
+
+.block-subheader {
+	font-size: 45px;
+	font-weight: 900;
+	text-transform: uppercase;
+	color: #999;
+	line-height: 1;	
+}
+
+.block-description {
+	font-size: 20px;
+	font-weight: 300;
+	color: #000;
+	line-height: 1;
+}
+
+.block-1-img {
+	padding-left: 0;
+}
+
+.block-2-img {
+	padding-right: 0;
+}
+
+/*.features {
+	background-color: #000;
+}*/
+
+.features text {
+	font-size: 40px;
+	font-weight: 900;
+	text-anchor: middle;
+}
+
+.features h3 {
+	text-align: center;
+	font-size: 22px;	
+	font-weight: 600;
+}
